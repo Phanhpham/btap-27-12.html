@@ -1,0 +1,18 @@
+.button{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+    border-radius:80px;
+}
+.button2{
+    height: 100px;
+    width:100px;
+    background-color: green;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
